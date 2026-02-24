@@ -11,7 +11,7 @@
 #include <cstring>
 
 static const uint16_t VID = 0x1d50;
-static const uint16_t PID = 0xab1e;
+static const uint16_t PID = 0xdead;
 
 static const uint8_t EP_IN  = 0x81;
 static const uint8_t EP_OUT = 0x01;
